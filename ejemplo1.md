@@ -15,7 +15,7 @@
 ## Paso 3: Conectar con GitHub
 - Conecto el repositorio local con el remoto mediante git remote add origin.
 
-
+[Foto conexión](CapturaIAW3.PNG)
 
 ## Paso 4: Subir el repositorio a GitHub
 - Añado los archivos y se realizó el primer commit, seguido del push al repositorio remoto.
