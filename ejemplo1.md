@@ -20,8 +20,12 @@
 ## Paso 4: Subir el repositorio a GitHub
 - Añado los archivos y se realizó el primer commit, seguido del push al repositorio remoto.
 
+[Foto subida](CapturaIAW4.PNG)
+
 ## Paso 5: Clonar el repositorio en Linux Debian
 - Clono el repositorio en la máquina virtual Debian con git clone.
+
+
 
 ## Paso 6: Modificar archivos en Windows
 - Se modificó archivo1.txt y se creó archivo3.txt, subiendo los cambios con git add, git commit y git push.
