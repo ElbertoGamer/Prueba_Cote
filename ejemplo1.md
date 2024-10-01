@@ -28,7 +28,7 @@
 
 
 ## Paso 6: Modificar archivos en Windows
-- Se modificó archivo1.txt y se creó archivo3.txt, subiendo los cambios con git add, git commit y git push.
+- Modifico el archivo1.txt y creo el archivo3.txt, subiendo los cambios con git add, git commit y git push.
 
 ## Paso 7: Actualizar repositorio en Linux Debian
-- Se actualizó la versión local del repositorio en Linux Debian usando git pull.
+- Actualizo la versión local del repositorio en Linux Debian usando git pull.
