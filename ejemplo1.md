@@ -25,10 +25,15 @@
 ## Paso 5: Clonar el repositorio en Linux Debian
 - Clono el repositorio en la máquina virtual Debian con git clone.
 
-
+[Foto clon](CapturaIAW5.PNG)
 
 ## Paso 6: Modificar archivos en Windows
 - Modifico el archivo1.txt y creo el archivo3.txt, subiendo los cambios con git add, git commit y git push.
 
+[Foto cambios](CapturaIAW6.PNG)
+[Foto cambios](CapturaIAW62.PNG)
+
 ## Paso 7: Actualizar repositorio en Linux Debian
 - Actualizo la versión local del repositorio en Linux Debian usando git pull.
+
+[Foto update](CapturaIAW7.PNG)
