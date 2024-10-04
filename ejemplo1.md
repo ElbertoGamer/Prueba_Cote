@@ -3,7 +3,7 @@
 ## Paso 1: Crear el repositorio local en Windows
 - Creamos el repositorio local usando git init.
 
-[!Foto repositorio](Img/CapturaIAW1.PNG)
+![Foto repositorio](Img/CapturaIAW1.PNG)
 
 ## Paso 2: Crear archivos de texto
 - Creo los archivos archivo1.txt y archivo2.txt con el siguiente contenido:
