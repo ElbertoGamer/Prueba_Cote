@@ -20,7 +20,7 @@ Este es un párrafo de ejemplo, con algunas palabras en **negrita**, otras en *c
 
 [Enlace a otro fichero Markdown](./ejemplo1.md)
 
-![imagen](https://tenor.com/es/view/que-entre-la-china-el-hormiguero-pablo-motos-gif-27158619)
+![imagen](https://media.tenor.com/NsBy08TXzkwAAAAe/por-favor-que-entre-la-china-pablo-motos.png)
 
 | Item | Precio | Rate |
 | ------------ | ------------ | ------------ |
